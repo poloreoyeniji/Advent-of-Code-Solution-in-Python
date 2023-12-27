@@ -18,7 +18,6 @@ number_of_wins = 0
 for i in range(time + 1):
     current_time = i
     value = current_time * time
-    # wins = 0
     if value > distance:
         number_of_wins += 1
     current_time += 1
