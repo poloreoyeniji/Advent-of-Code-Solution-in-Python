@@ -2,7 +2,7 @@
 
 This repository houses my solutions to [Advent of Code](https://adventofcode.com/) problems. The solutions are written in both Python and JavaScript. As a personal challenge, I aim for optimal, readable solutions that serve as learning resources for others interested in problem-solving.
 
-Follow along with my solutions in this repository. Please note that due to copyright and [Eric Wastl's request](https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/), input files aren't included. You'll need to adjust file paths to run the code.
+Follow along with my solutions in this repository. Please note that due to copyright and [Eric Wastl's request](https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/), input files are not included. You will need to adjust file paths to run the code.
 
 ### 2023 Solutions
 | Day              | Python | JavaScript | Intuition |
@@ -25,10 +25,10 @@ Follow along with my solutions in this repository. Please note that due to copyr
     - `part-one.js`
     - `part-two.js`
 
-### Tools(TODO)
+### Helper Programs(TODO)
 - **get-input**: Fetches the AoC server's input for a given day and saves it as a text file. Please adhere to the [usage limitations](https://www.reddit.com/r/adventofcode/wiki/faqs/automation/) specified.
-  - **[`get-input.py`](tools/get-input/get-input.py)**: Uses Python to get the puzzle input.
-  - **[`get-input.js`](tools/get-input/get-input.js)**: Uses JavaScript to get the puzzle input.
+  - **[`get-input.py`](helper_programs/get-input/get-input.py)**: Uses Python to get the puzzle input.
+  - **[`get-input.js`](helper_programs/get-input/get-input.js)**: Uses JavaScript to get the puzzle input.
 
 ## Repository Navigation
 To navigate this repository effectively:
