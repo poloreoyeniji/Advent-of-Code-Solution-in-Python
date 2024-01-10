@@ -1,2 +1,7 @@
-*.txt
-/sample_prog.py
+/2023/playground
+/puzzle-input
+/2023/solution-in-python/day-7/*.txt
+/2023/solution-in-python/day-6/*.txt
+/2023/solution-in-python/day-4/*.txt
+/2023/solution-in-python/day-3/*.txt
+/2023/solution-in-python/day-1/*.txt

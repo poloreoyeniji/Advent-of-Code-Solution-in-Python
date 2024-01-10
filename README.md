@@ -7,12 +7,12 @@ Follow along with my solutions in this repository. Please note that due to copyr
 ### 2023 Solutions
 | Day              | Python | JavaScript | Idea |
 |------------------|---------------|---------------|-------------------|
-| 01 | [Solution](2023/solution-in-python/day-1) | [Solution](2023/solution-in-javascript/day-1)
-| 02 | [Solution](2023/solution-in-python/day-2) | [Solution](2023/solution-in-javascript/day-2) 
-| 03 | [Solution](2023/solution-in-python/day-3) | [Solution](2023/solution-in-javascript/day-3) 
-| 04 | [Solution](2023/solution-in-python/day-4) | [Solution](2023/solution-in-javascript/day-4) 
-| 06| [Solution](2023/solution-in-python/day-6) | [Solution](2023/solution-in-javascript/day-6)
-| 07 | [Solution](2023/solution-in-python/day-7) | [Solution](2023/solution-in-javascript/day-7)
+| 01 | [Solution](2023/solution-in-python/day-1) | [Solution](2023/solution-in-javascript/day-1) | [idea](2023/ideas/day-1/idea_01.txt)
+| 02 | [Solution](2023/solution-in-python/day-2) | [Solution](2023/solution-in-javascript/day-2) | [idea](2023/ideas/day-2/idea_02.txt)
+| 03 | [Solution](2023/solution-in-python/day-3) | [Solution](2023/solution-in-javascript/day-3) | [idea](2023/ideas/day-3/idea_03.txt)
+| 04 | [Solution](2023/solution-in-python/day-4) | [Solution](2023/solution-in-javascript/day-4) | [idea](2023/ideas/day-4/idea_04.txt)
+| 06| [Solution](2023/solution-in-python/day-6) | [Solution](2023/solution-in-javascript/day-6)  | [idea](2023/ideas/day-6/idea_06.txt)
+| 07 | [Solution](2023/solution-in-python/day-7) | [Solution](2023/solution-in-javascript/day-7) | [idea](2023/ideas/day-7/idea_07.txt)
 
 ## Repository Organization
 ### Solutions

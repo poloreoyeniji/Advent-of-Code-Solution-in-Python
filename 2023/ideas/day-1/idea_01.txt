@@ -1,0 +1,11 @@
+
+part 2: 
+
+PART 1:
+1. Initialize an empty list called `list_of_calibration_values`.
+2. Open the file 'puzzle-input.txt' and iterate through each line.
+3. For each line, create an empty list `list_of_calibration_values_for_each_line`.
+4. Iterate through each character in the line. If the character is a digit, add it to `list_of_calibration_values_for_each_line`.
+5. Take the first and last digits from `list_of_calibration_values_for_each_line`, concatenate them into a single digit, convert it to an integer, and add it to `list_of_calibration_values`.
+6. After processing all lines, calculate the sum of all digits in `list_of_calibration_values`.
+7. Print the total sum as the result.
