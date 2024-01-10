@@ -1,4 +1,6 @@
-with open('C:/Users/HP/Desktop/advent-of-code-2023/day-1/puzzle-input.txt', 'r', encoding='utf-8') as f:
+file_path = r'C:\Users\HP\Desktop\advent-of-code-solution\2023\puzzle-input\day1.txt'
+
+with open(file_path, 'r', encoding='utf-8') as f:
     list_of_calibration_values = []
 
     for line in f:

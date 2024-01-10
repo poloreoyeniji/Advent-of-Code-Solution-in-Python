@@ -1,4 +1,5 @@
 import re 
+file_path = r'C:\Users\HP\Desktop\advent-of-code-solution\2023\puzzle-input\day1.txt'
 
 umber_values = {
     1: 'one',
@@ -33,7 +34,6 @@ number_values ={
     'nine': 9
 }
 
-
 def regexxing(umber_values, line):
     listss = []
     for key, values in umber_values.items():
@@ -46,22 +46,17 @@ def regexxing(umber_values, line):
 
     return listss
     
-
 def minx(z):
     li = []
     for i in z:
         li.append(i[1])
     return(min(li))
 
-
 def stt_min(lists):
     mz = minx(lists)
     for i in lists:
         if i[1] == mz:
             return i[0] 
-
-
-
 
 def ed_max(lists):
     end_ = 0
@@ -78,9 +73,7 @@ def digitise(x):
     else:
         return number_values[x]
 
-
-
-with open('C:/Users/HP/Desktop/advent-of-code-2023/day-1/puzzle-input.txt', 'r', encoding='utf-8') as f:
+with open(file_path, 'r', encoding='utf-8') as f:
     final_values = []
     for line in f:
         lines_list = regexxing(umber_values, line=line)
@@ -89,18 +82,3 @@ with open('C:/Users/HP/Desktop/advent-of-code-2023/day-1/puzzle-input.txt', 'r',
 
         final_values.append(int(str(minii) + str(maxii)))
     print(sum(final_values))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
