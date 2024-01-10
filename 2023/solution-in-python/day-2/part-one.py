@@ -1,11 +1,13 @@
 import re
 
+file_path = file_path = r'C:\Users\HP\Desktop\advent-of-code-solution\2023\puzzle-input\day2.txt'
+
 max_red = 12
 max_green = 13
 max_blue = 14
 games_possibiity_dict = {}
 
-with open('C:/Users/HP/Desktop/advent-of-code-2023/day-2/input.txt', 'r', encoding='utf-8') as f:
+with open(file_path, 'r', encoding='utf-8') as f:
     for line in f:
         sample_string = line
 
