@@ -5,7 +5,7 @@ This repository houses my solutions to [Advent of Code](https://adventofcode.com
 Follow along with my solutions in this repository. Please note that due to copyright and [Eric Wastl's request](https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/), input files are not included. You will need to adjust file paths to run the code.
 
 ### 2023 Solutions
-| Day              | Python | JavaScript | Intuition |
+| Day              | Python | JavaScript | Idea |
 |------------------|---------------|---------------|-------------------|
 | 01 | [Solution](2023/solution-in-python/day-1) | [Solution](2023/solution-in-javascript/day-1)
 | 02 | [Solution](2023/solution-in-python/day-2) | [Solution](2023/solution-in-javascript/day-2) 
