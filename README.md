@@ -1,6 +1,6 @@
 # Advent of Code Solutions
 
-This repository houses my solutions to [Advent of Code](https://adventofcode.com/) problems. The solutions are written in both Python and JavaScript. As a personal challenge, I aim for optimal, readable solutions that serve as learning resources for others interested in problem-solving.
+This repository houses my solutions to [Advent of Code](https://adventofcode.com/) problems. The solutions are written in both Python and JavaScript. As a personal challenge, I aim for optimal, readable and beginner-friendly solutions that serve as learning resources for others interested in problem-solving.
 
 Follow along with my solutions in this repository. Please note that due to copyright and [Eric Wastl's request](https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/), input files are not included. You will need to adjust file paths to run the code.
 
