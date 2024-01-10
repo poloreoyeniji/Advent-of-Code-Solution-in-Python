@@ -16,5 +16,3 @@ with open('C:/Users/HP/Desktop/advent-of-code-2023/day-1/puzzle-input.txt', 'r',
 total_calibration_value = sum(list_of_calibration_values)
 
 print(f"The sum of all of the calibration values is {total_calibration_value}")
-            
-        
