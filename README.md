@@ -12,7 +12,6 @@ Follow along with my solutions in this repository. Please note that due to copyr
 | 03 | [Solution](2023/solution-in-python/day-3) | [Solution](2023/solution-in-javascript/day-3) | [idea](2023/ideas/day-3/idea_03.txt)
 | 04 | [Solution](2023/solution-in-python/day-4) | [Solution](2023/solution-in-javascript/day-4) | [idea](2023/ideas/day-4/idea_04.txt)
 | 06| [Solution](2023/solution-in-python/day-6) | [Solution](2023/solution-in-javascript/day-6)  | [idea](2023/ideas/day-6/idea_06.txt)
-| 07 | [Solution](2023/solution-in-python/day-7) | [Solution](2023/solution-in-javascript/day-7) | [idea](2023/ideas/day-7/idea_07.txt)
 
 ## Repository Organization
 ### Solutions
