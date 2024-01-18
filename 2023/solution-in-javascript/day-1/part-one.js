@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const filePath = 'C:/Users/HP/Desktop/advent-of-code-2023/day-1/puzzle-input.txt';
+const filePath = 'C:/Users/HP/Desktop/advent-of-code-solution/2023/puzzle-input/day2.txt';
 const fileContent = fs.readFileSync(filePath, 'utf-8');
 const lines = fileContent.split('\n');
 
