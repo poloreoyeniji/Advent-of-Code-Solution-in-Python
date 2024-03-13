@@ -1,4 +1,5 @@
 # Advent of Code Solutions
+![AoC-dashboard](/Capture.PNG)
 
 This repository houses my solutions to [Advent of Code](https://adventofcode.com/) problems. The solutions are written in both Python and JavaScript. As a personal challenge, I aim for optimal, readable and beginner-friendly solutions that serve as learning resources for others interested in problem-solving.
 
