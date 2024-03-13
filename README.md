@@ -28,4 +28,21 @@ Follow along with my solutions in this repository. Please note that due to copyr
 - Use the `tools` directory for helpful scripts such as to import puzzle input.
 
 ## Contributing
-Contributions and improvements are welcome! Feel free to enhance existing solutions, fix bugs, or add new approaches to problem-solving.
+Contributions and improvements are welcome! Here are a few ways you can contribute:
+
+1. **Rewriting Solutions:** Some of the solutions in this repository were generated quickly and may not be the most efficient or elegant. You can contribute by rewriting solutions to improve efficiency, readability, or to explore different problem-solving approaches.
+
+2. **Providing Ideas:** If you have insights or ideas on how to solve specific Advent of Code problems more efficiently or creatively, feel free to share them! Adding your thoughts to the `ideas` directory within each day's solution can be immensely helpful for others.
+
+3. **Adding New Approaches:** If you have alternative solutions to any of the problems, particularly those that demonstrate different algorithms or programming techniques, please contribute them! Providing diverse solutions can help learners understand various problem-solving strategies.
+
+Please follow these guidelines when contributing:
+
+- **Fork the Repository:** Before making any changes, fork this repository to your GitHub account.
+- **Create a Branch:** For each contribution, create a new branch with a descriptive name.
+- **Make Changes:** Make your desired changes, whether it's rewriting solutions, adding ideas, or introducing new approaches.
+- **Test Changes:** Ensure that your changes do not break existing functionality. If you're adding new solutions, test them thoroughly.
+- **Submit a Pull Request:** Once your changes are ready, submit a pull request to merge your branch into the main repository. Be sure to provide a clear description of your changes.
+
+Together, we can make this repository a valuable resource for Advent of Code enthusiasts, fostering learning and problem-solving skills for everyone involved!
+
