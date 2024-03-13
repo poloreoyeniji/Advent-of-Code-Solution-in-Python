@@ -20,12 +20,6 @@ Follow along with my solutions in this repository. Please note that input files 
     - `part-one.py`
     - `part-two.py`
 
-### Tools (TODO)
-- **get-input**: Fetches the AoC server's input for a given day and saves it as a text file. Please adhere to the [usage limitations](https://www.reddit.com/r/adventofcode/wiki/faqs/automation/) specified.
-  - **[`get-input.py`](helper_programs/get-input/get-input.py)**: Uses Python to get the puzzle input.
-
-## Others
-- Use the `tools` directory for helpful scripts such as to import puzzle input.
 
 ## Contributing
 Contributions and improvements are welcome! Here are a few ways you can contribute:
