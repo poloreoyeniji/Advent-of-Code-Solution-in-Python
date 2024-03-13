@@ -1,6 +1,6 @@
 import re
 
-file_path = file_path = r'C:\Users\HP\Desktop\advent-of-code-solution\2023\puzzle-input\day2.txt'
+file_path = file_path = r'C:\Users\HP\Desktop\projects\advent-of-code-solution\2023\puzzle-input\day2.txt'
 
 max_red = 12
 max_green = 13
@@ -50,8 +50,6 @@ with open(file_path, 'r', encoding='utf-8') as f:
         
         games_possibiity_dict[game_number] = game_possible
 
-    print(games_possibiity_dict)
+    # print(games_possibiity_dict)
     um_v = sum(key for key, values in games_possibiity_dict.items() if values == True)
-    print(um_v)
-
-
+    print(f"The sum of the IDs of those games is {um_v}")

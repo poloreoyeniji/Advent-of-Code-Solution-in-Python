@@ -1,5 +1,6 @@
 import re 
-file_path = r'C:\Users\HP\Desktop\advent-of-code-solution\2023\puzzle-input\day1.txt'
+
+file_path = r'2023\puzzle-input\day1.txt'
 
 umber_values = {
     1: 'one',
@@ -81,4 +82,4 @@ with open(file_path, 'r', encoding='utf-8') as f:
         maxii = digitise(ed_max(lines_list))
 
         final_values.append(int(str(minii) + str(maxii)))
-    print(sum(final_values))
+    print(f"The sum of all calibration values is {sum(final_values)}")
