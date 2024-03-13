@@ -16,7 +16,6 @@ Follow along with my solutions in this repository. Please note that due to copyr
 
 ## Repository Organization
 ### Solutions
-- **Solutions in Python**
   - **day-x**
     - `part-one.py`
     - `part-two.py`
