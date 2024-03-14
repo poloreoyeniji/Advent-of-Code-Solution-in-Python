@@ -7,6 +7,3 @@ PART 1:
     6. Take the first and last digits from list_of_calibration_values_for_each_line, concatenate them into a single digit, convert it to an integer, and add it to list_of_calibration_values
 7. After processing all lines, calculate the sum of all digits in list_of_calibration_values
 8. Print the total sum as the result
-
-PART 2: TODO
-
