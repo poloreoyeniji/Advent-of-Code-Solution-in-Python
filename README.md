@@ -6,7 +6,7 @@ This repository houses my solutions to [Advent of Code](https://adventofcode.com
 Follow along with my solutions in this repository. Please note that input files are not included due to copyright and [Eric Wastl's request](https://www.reddit.com/r/adventofcode/wiki/faqs/copyright/inputs/). You will need to adjust file paths to run the code.
 
 ### 2023 Solutions
-| Day | Solution to Part One | Solution to Part Two | Pseudocode for Part One | Pseudocode for Part Two |
+| Day | Solution to Part 1 | Solution to Part 2 | Pseudocode for Part 1 | Pseudocode for Part 2 |
 |-----|----------|----------|---------------------|---------------------|
 | 01  | [Solution](2023/solution/day-1/part-one.py) | ["Solution"](2023/solution/day-1/part-two.py) | [pseudocode](2023/pseudocode/day-1/pseudocode01.txt) | |
 | 02  | ["Solution"](2023/solution/day-2/part-one.py) | ["Solution"](2023/solution/day-2/part-two.py) | | |
