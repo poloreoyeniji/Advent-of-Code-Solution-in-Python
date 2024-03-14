@@ -8,11 +8,11 @@ Follow along with my solutions in this repository. Please note that input files 
 ### 2023 Solutions
 | Day | Solution to Part One | Solution to Part Two | Pseudocode for Part One | Pseudocode for Part Two |
 |-----|----------|----------|---------------------|---------------------|
-| 01  | [Solution](2023/solution-in-python/day-1/part-one.py) | ["Solution"](2023/solution-in-python/day-1/part-two.py) | [pseudocode](2023/pseudocode/day-1/pseudocode01.txt) | |
-| 02  | ["Solution"](2023/solution-in-python/day-2/part-one.py) | ["Solution"](2023/solution-in-python/day-2/part-two.py) | | |
-| 03  | ["Solution"](2023/solution-in-python/day-3/part-one.py) | ["Solution"](2023/solution-in-python/day-3/part-two.py) | | |
-| 04  | ["Solution"](2023/solution-in-python/day-4/part-one.py) | ["Solution"](2023/solution-in-python/day-4/part-two.py) | | |
-| 06  | ["Solution"](2023/solution-in-python/day-6/part-one.py) | ["Solution"](2023/solution-in-python/day-6/part-two.py) | | |
+| 01  | [Solution](2023/solution/day-1/part-one.py) | ["Solution"](2023/solution/day-1/part-two.py) | [pseudocode](2023/pseudocode/day-1/pseudocode01.txt) | |
+| 02  | ["Solution"](2023/solution/day-2/part-one.py) | ["Solution"](2023/solution/day-2/part-two.py) | | |
+| 03  | ["Solution"](2023/solution/day-3/part-one.py) | ["Solution"](2023/solution/day-3/part-two.py) | | |
+| 04  | ["Solution"](2023/solution/day-4/part-one.py) | ["Solution"](2023/solution/day-4/part-two.py) | | |
+| 06  | ["Solution"](2023/solution/day-6/part-one.py) | ["Solution"](2023/solution/day-6/part-two.py) | | |
 
 ## Repository Organization
 ### Solutions
