@@ -27,7 +27,7 @@ Follow along with my solutions in this repository. Please note that input files 
 
 ## Contributing
 Contributions and improvements are welcome! Here are a few ways you can contribute:
-1. **Rewriting Solutions:** Some of the solutions in this repository were generated quickly and may not be the most readable or elegant. Solutions marked with quotes ("Solution") were written on the fly and need to be rewritten to cover proper naming of variables, etc. You can contribute by rewriting solutions to improve readability or to explore different problem-solving approaches.
+1. **Rewriting Solutions:** Some of the solutions in this repository were generated quickly and may not be the most readable or elegant. Solutions marked with quotes `"Solution"` were written on the fly and need to be rewritten to cover proper naming of variables, etc. You can contribute by rewriting solutions to improve readability or to explore different problem-solving approaches.
 
 2. **Providing Pseudocode:** If you have insights or ideas on how to solve specific Advent of Code problems, feel free to share them! Adding your pseudocode to the `pseudocode` directory within each day's solution can be immensely helpful for others. Pseudocode provides a high-level outline of the solution algorithm without getting into specific syntax, making it accessible to a wide audience and aiding in understanding different problem-solving strategies.
 
